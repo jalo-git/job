@@ -1,0 +1,30 @@
+{
+  "name": "job",
+  "version": "1.0.0",
+  "description": "JobChase.com using MEAN stack with angular",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jalo-git/job.git"
+  },
+  "keywords": [
+    "JobChase.com",
+    "using",
+    "MEAN",
+    "STACK",
+    "ANGULAR"
+  ],
+  "author": "Jesselle Judy Jessa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jalo-git/job/issues"
+  },
+  "homepage": "https://github.com/jalo-git/job#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5"
+  }
+}
